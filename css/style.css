@@ -56,7 +56,7 @@ a {
 .menu__principal a:hover {
     color: #434d74;
 }
-/**************** fim do header  ****************/
+
 
 
 /**************** conteúdo principal  ****************/
@@ -149,6 +149,8 @@ a {
         url(../images/08.jpg);
 }
 
+
+/* Pensando no responsivo */
 @media(max-width: 1000px){
     .galeria__item {
         width: 95%;
